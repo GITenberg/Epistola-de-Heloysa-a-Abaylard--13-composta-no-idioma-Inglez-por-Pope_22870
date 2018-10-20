@@ -1,6 +1,6 @@
 _repo: Epistola-de-Heloysa-a-Abaylard--13-composta-no-idioma-Inglez-por-Pope_22870
 _version: 0.1.0
-alternative_title: "Epístola de Heloísa a Abaylard\r\ncomposta no idioma Inglês por\
+alternative_title: "Epístola de Heloísa a Abaylard\ncomposta no idioma Inglês por\
   \ Pope"
 contributor:
   translator:
@@ -32,10 +32,8 @@ identifiers:
   gutenberg: '22870'
 language: pt
 language_note: This ebook uses a beginning of the 19th century spelling
-production_note: "Produced by Pedro Saborano. (produced from scanned images\r\nof\
-  \ public domain material from Google Book Search)"
-publication_note: "Londres:\r\nOfficina De Guilherme Lane,\r\nRua De Leadenhall.\r\
-  \n1801"
+production_note: "Produced by Pedro Saborano. (produced from scanned images of public domain material from Google Book Search)"
+publication_note: "Londres:\nOfficina De Guilherme Lane,\nRua De Leadenhall.\n1801"
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
@@ -44,5 +42,5 @@ subjects:
 - !lcsh 'Abelard, Peter, 1079-1142 -- Poetry'
 - !lcsh 'Héloïse, approximately 1095-1163 or 1164 -- Poetry'
 - GITenberg
-title: "Epistola de Heloysa a Abaylard\r\ncomposta no idioma Inglez por Pope"
+title: "Epistola de Heloysa a Abaylard\ncomposta no idioma Inglez por Pope"
 url: http://www.gutenberg.org/ebooks/22870
